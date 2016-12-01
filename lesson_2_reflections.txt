@@ -21,3 +21,7 @@ organized? How would branches help?
     Branches are useful for when you want to make changes that are separate from
     your master branch. Since these changes are separate, you can track them
     separately as well.
+
+How do the diagrams help you visualize the branch structure?
+
+    It helps make it easier to understand what commits are in what branch.
