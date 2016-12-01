@@ -32,3 +32,10 @@ the diagram the way we do?
     Merging two branches together puts the changes to the files in each branch
     into one set of files. It's represented in such a way to show the history
     of those branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+    Git's automatic merging is very useful because it's much easier to offload
+    that work to git, but merging manually is also useful because it can be
+    more accurate in what you want the final product to be.
