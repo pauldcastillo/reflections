@@ -8,3 +8,13 @@ automatically stay up-to-date with your remote repository?
 
     There might be changes on the remote repository you don't want on your
     branch yet. Although you shouldn't really work on master.
+
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+    Forks are copies of repositories you want to edit without changing the
+    original, usually one you don't have authorization to edit. Clones are
+    copies of repositories you put on your machine to make edits to for later
+    merging with the main repository. Branches are copies of repository made
+    locally (though not necessarily on your own machine, could be GitHub) for
+    merging later.
