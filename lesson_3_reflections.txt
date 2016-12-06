@@ -18,3 +18,8 @@ use one instead of another?
     merging with the main repository. Branches are copies of repository made
     locally (though not necessarily on your own machine, could be GitHub) for
     merging later.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    You can compare your branch to the state of the remote repository.
