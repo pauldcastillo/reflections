@@ -32,3 +32,12 @@ and what would be harder?
     can have a file open at a time, or whatever the most recently saved version
     would be the only version, which presents problems when it comes to merging
     slightly different files.
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+
+    I would never make changes directly into master unless I was not
+    collaborating with anyone and never planned to. I suppose it's simpler to
+    commit directly to master, but the additional control and rewinding
+    capability is one of the best advantages of git, and it's not exactly
+    a ton of effort to make a separate branch.
