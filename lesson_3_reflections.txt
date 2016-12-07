@@ -23,3 +23,12 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
     You can compare your branch to the state of the remote repository.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+    Using a remote copy on a shared disk would probably be the best option,
+    but the problem with that would be sharing files. Either only one person
+    can have a file open at a time, or whatever the most recently saved version
+    would be the only version, which presents problems when it comes to merging
+    slightly different files.
